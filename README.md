@@ -6,7 +6,12 @@
 
 ## 基础
 
-- Head First Java       [百度云下载链接](https://pan.baidu.com/s/11OAEezloi9QMS6HBeV9Www) 提取码:t2hi 
+- Head First Java       [百度云下载链接](https://pan.baidu.com/s/11OAEezloi9QMS6HBeV9Www) 提取码:t2hi
+- Java 核心技术卷       [百度云下载链接](https://pan.baidu.com/s/10MwErNKICSexwfh1thboHg) 提取码:7su0 
+- Java 编程思想       [百度云下载链接](https://pan.baidu.com/s/1Si5o3pL9tGM3kOt2U-LN0Q)  密码:spzk
+- Java 8 实战       [百度云下载链接](https://pan.baidu.com/s/1xRURT8Vz2MgAFR57R5Ai6w) 提取码:e4y3 
+- Java 核心知识点整理       [百度云下载链接](https://pan.baidu.com/s/1gRiNItya7vgB2CPNS_6GsA) 提取码:6ftl
+- 第一行代码 Java       [百度云下载链接](https://pan.baidu.com/s/1EWIs7BcMNZK13uUsh2oyeQ) 提取码:zhuk 
 
 ## 工具
 
