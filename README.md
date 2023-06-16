@@ -16,7 +16,10 @@
 ## 工具
 - Maven 实战       [百度云下载链接](https://pan.baidu.com/s/1ba7Rsa_1tH0t9aFbQUy64Q)  密码:3gwv
 - IntelliJ IDEA 简体中文专题教程（电子版-2015）       [百度云下载链接](https://pan.baidu.com/s/1NXN62yy98nJk7ZfWpNxTAg)  密码:ddfq
+- GitHub入门与实践       [百度云下载链接](https://pan.baidu.com/s/1SiNLjYjk5xXkuFW7NfHm_A)  密码:kw9h
 
 ## 框架
 
 - SpringBoot实战(第4版)       [百度云下载链接](https://pan.baidu.com/s/1QXKWrvfNxHGFMFljDEl75A)  密码:3pnh
+- MyBatis 从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1cYpBIyfJYR4-J8aNNG9MZQ)  密码:8vjv
+- Hibernate 实战       [百度云下载链接](https://pan.baidu.com/s/1duppcX2b_oSajBRnmTwWhw)  密码:gdf6
