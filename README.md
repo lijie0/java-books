@@ -21,5 +21,5 @@
 ## 框架
 
 - SpringBoot实战(第4版)       [百度云下载链接](https://pan.baidu.com/s/1QXKWrvfNxHGFMFljDEl75A)  密码:3pnh
-- MyBatis 从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1cYpBIyfJYR4-J8aNNG9MZQ)  密码:8vjv
+- MyBatis 从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1W0xir8gqVxK84bqUNnk77g)  密码:nrfa
 - Hibernate 实战       [百度云下载链接](https://pan.baidu.com/s/1duppcX2b_oSajBRnmTwWhw)  密码:gdf6
