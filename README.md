@@ -11,11 +11,12 @@
 - Java 编程思想       [百度云下载链接](https://pan.baidu.com/s/1Si5o3pL9tGM3kOt2U-LN0Q)  密码:spzk
 - Java 8 实战       [百度云下载链接](https://pan.baidu.com/s/1xRURT8Vz2MgAFR57R5Ai6w) 提取码:e4y3 
 - Java 核心知识点整理       [百度云下载链接](https://pan.baidu.com/s/1gRiNItya7vgB2CPNS_6GsA) 提取码:6ftl
-- 第一行代码 Java       [百度云下载链接](https://pan.baidu.com/s/1EWIs7BcMNZK13uUsh2oyeQ) 提取码:zhuk 
 
 ## 工具
 - Maven 实战       [百度云下载链接](https://pan.baidu.com/s/1ba7Rsa_1tH0t9aFbQUy64Q)  密码:3gwv
 - IntelliJ IDEA 简体中文专题教程（电子版-2015）       [百度云下载链接](https://pan.baidu.com/s/1NXN62yy98nJk7ZfWpNxTAg)  密码:ddfq
+- 日志系统手册（Log4j、SLF4J、Logback、Log4j 2）       [百度云下载链接](https://pan.baidu.com/s/1s9xaRFeoeDHGfrMGNRdWEw)  密码:bdcd
+- Git 权威指南       [百度云下载链接](https://pan.baidu.com/s/1RduszPKbQwGBMQptuSXXAA)  密码:8o7v
 - GitHub入门与实践       [百度云下载链接](https://pan.baidu.com/s/1SiNLjYjk5xXkuFW7NfHm_A)  密码:kw9h
 
 ## 框架
