@@ -24,3 +24,12 @@
 - SpringBoot实战(第4版)       [百度云下载链接](https://pan.baidu.com/s/1QXKWrvfNxHGFMFljDEl75A)  密码:3pnh
 - MyBatis 从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1W0xir8gqVxK84bqUNnk77g)  密码:nrfa
 - Hibernate 实战       [百度云下载链接](https://pan.baidu.com/s/1duppcX2b_oSajBRnmTwWhw)  密码:gdf6
+- Struts2 技术内幕——深入解析 Struts2 架构设计与实现原理       [百度云下载链接](https://pan.baidu.com/s/1grXYarfAgmmjg8DhTWYnWQ)  密码:il2c
+- Spring 技术手册       [百度云下载链接](https://pan.baidu.com/s/1WknPObLtzvngrdfuz1FslA)  密码:s4se
+- Spring 实战       [百度云下载链接](https://pan.baidu.com/s/11JoszjGSvaWOXFYIoEvJPA)  密码:bzmz
+- Netty 进阶之路 跟着案例学       [百度云下载链接](https://pan.baidu.com/s/16fJloNmQ-HR8AHyclgmVdA)  密码:sxpg
+- Netty 实战       [百度云下载链接](https://pan.baidu.com/s/1h91Hn9ku93MfXtyeLI9-YQ)  密码:9g7v
+
+## 数据库
+
+- 数据库系统基础教程       [百度云下载链接](https://pan.baidu.com/s/1RErkMRwTd4C0yITLk0VQCw)  密码:5dn7
