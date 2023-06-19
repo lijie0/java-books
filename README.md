@@ -4,6 +4,7 @@
 - [02、工具](#工具)
 - [03、框架](#框架)
 - [04、数据库](#数据库)
+- [05、并发编程](#并发编程)
 
 ## 基础
 
@@ -34,3 +35,12 @@
 ## 数据库
 
 - 数据库系统基础教程       [百度云下载链接](https://pan.baidu.com/s/1RErkMRwTd4C0yITLk0VQCw)  密码:5dn7
+
+### MySQL
+- 深入浅出MySQL       [百度云下载链接](https://pan.baidu.com/s/1CJRc2PLWgTLucsgnqso3xA)  密码:h6uz
+
+### Redis
+- Redis 入门指南       [百度云下载链接](https://pan.baidu.com/s/1j9xhN-ScAIdqhNZXCYlWEw)  密码:v48v
+
+## 并发编程
+- 深入浅出 Java 多线程       [百度云下载链接](https://pan.baidu.com/s/1VjU0K9rNcpgAtNtblmp-HQ)  密码:ypij
