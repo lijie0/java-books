@@ -42,5 +42,9 @@
 ### Redis
 - Redis 入门指南       [百度云下载链接](https://pan.baidu.com/s/1j9xhN-ScAIdqhNZXCYlWEw)  密码:v48v
 
+### MongoDB
+
+- MongoDB实战(第二版)       [百度云下载链接](https://pan.baidu.com/s/1TeLjHufi8ETliUm-t0HRHQ)  密码:6ar0
+
 ## 并发编程
 - 深入浅出 Java 多线程       [百度云下载链接](https://pan.baidu.com/s/1VjU0K9rNcpgAtNtblmp-HQ)  密码:ypij
