@@ -5,6 +5,7 @@
 - [03、框架](#框架)
 - [04、数据库](#数据库)
 - [05、并发编程](#并发编程)
+- [06、JVM](#JVM)
 
 ## 基础
 
@@ -48,3 +49,8 @@
 
 ## 并发编程
 - 深入浅出 Java 多线程       [百度云下载链接](https://pan.baidu.com/s/1VjU0K9rNcpgAtNtblmp-HQ)  密码:ypij
+
+## JVM
+
+- 实战 Java 虚拟机 JVM 故障诊断与性能优化       [百度云下载链接](https://pan.baidu.com/s/1qolWueFpW93SQgcYVdmOIg)  密码:wunu
+
