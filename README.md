@@ -6,6 +6,10 @@
 - [04、数据库](#数据库)
 - [05、并发编程](#并发编程)
 - [06、JVM](#JVM)
+- [07、性能优化](#性能优化)
+- [08、设计模式](#设计模式)
+- [09、操作系统](#操作系统)
+  - [Linux 基础知识](#Linux基础知识)
 
 ## 基础
 
@@ -51,6 +55,18 @@
 - 深入浅出 Java 多线程       [百度云下载链接](https://pan.baidu.com/s/1VjU0K9rNcpgAtNtblmp-HQ)  密码:ypij
 
 ## JVM
-
 - 实战 Java 虚拟机 JVM 故障诊断与性能优化       [百度云下载链接](https://pan.baidu.com/s/1qolWueFpW93SQgcYVdmOIg)  密码:wunu
 
+## 性能优化
+- 嵩山版阿里巴巴 Java 开发手册       [百度云下载链接](https://pan.baidu.com/s/1JdAnmTs9N6fRmy7j4Aucow)  密码:dal3
+- Java 程序员修炼之道       [百度云下载链接](https://pan.baidu.com/s/1Ahy1XBLi0-HBL2F8uCbMmw)  密码:03wf
+- MySQL 性能优化的 21 个最佳实践       [百度云下载链接](https://pan.baidu.com/s/1FVMMjQmIwKP6M_U9eFY_Mw)  密码:2bsi
+
+## 设计模式
+- Head First 设计模式       [百度云下载链接](https://pan.baidu.com/s/1AcfqcEJQ2aGck4WfmOIz4Q)  密码:gkn5
+
+## 操作系统
+- 深入理解计算机系统       [百度云下载链接](https://pan.baidu.com/s/1adfJK7Q6E9C14QhBbrHGwA)  密码:mnjb
+
+### Linux基础知识
+- 鸟哥的 Linux 私房菜       [百度云下载链接](https://pan.baidu.com/s/16j8c0JogC5RrY8yyyoUvyQ)  密码:8yo8
